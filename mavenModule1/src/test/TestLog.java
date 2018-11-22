@@ -19,7 +19,7 @@ public class TestLog {
     public void log1() {
         Logger log= LoggerFactory.getLogger(TestLog.class);
         String name="测试1";
-        log.info("这是一1111111条日志{ }",name);
+        log.info("这是一3条日志{ }",name);
 
     }
 
